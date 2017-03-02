@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\bin\Debug\Large and Small.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\bin\Debug\Large and Small.exe
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\bin\Debug\Large and Small.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\bin\Debug\Large and Small.xml
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\obj\Debug\Large_and_Small.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\obj\Debug\Large_and_Small.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\obj\Debug\Large and Small.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\obj\Debug\Large and Small.exe
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\obj\Debug\Large and Small.xml
+c:\users\owner\documents\visual studio 2012\Projects\Large and Small\Large and Small\obj\Debug\Large and Small.pdb
